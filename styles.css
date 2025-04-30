@@ -534,7 +534,10 @@ body{
         left: 45px;
     }
 
-
+    .content{
+        position:relative;
+        z-index: -1;
+    }
 
     .Nav-Bar{
         justify-content: center;
@@ -556,6 +559,9 @@ body{
 
     .Frame-6584{
         width: 80vh;
+        position:relative;
+        z-index: 1;
+        margin-top: 0;
     }
 }
 
