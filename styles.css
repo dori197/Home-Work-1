@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     overflow-x: hidden;
+    border: solid red 1px; 
 }
 
 /*-------------------------------- Body ------------------*/
@@ -521,7 +522,7 @@ html{
         right: -100%;
         top: 0;
         width: 35%;    
-        height: 36vh;
+        height: 38vh;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
