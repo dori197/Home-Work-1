@@ -595,7 +595,7 @@ html{
         z-index: -1;  
     }
     .scroll{
-        font-size: 20px;
+        font-size: 23px;
     }
 }
 
@@ -739,7 +739,6 @@ html{
     margin-left: 0vh;
 }
 .content{
-    justify-content: flex-start;
     margin-left: 0vh;
 }
 .content h1{
@@ -754,7 +753,7 @@ html{
 }
 .getstarted{
     margin-top: 7vh;
-    transform: translateX(-30%);
+    transform: translateX(0%);
 }
 .top{
     font-size: 23px;
