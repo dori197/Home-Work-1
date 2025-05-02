@@ -543,7 +543,7 @@ html{
     .header .second {
         position:fixed; 
         left: -100%;
-        top: 50px;
+        top: 35px;
         width: 25%;    
         height: 25%;
         padding: 20px;
@@ -563,7 +563,7 @@ html{
 
     .content{
         position:relative;
-        z-index: -1;
+        z-index: -5;
     }
 
     .Nav-Bar{
