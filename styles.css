@@ -521,7 +521,7 @@ html{
         right: -100%;
         top: 0;
         width: 35%;    
-        height: 32vh;
+        height: 300vh;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
@@ -545,7 +545,7 @@ html{
         left: -100%;
         top: 50px;
         width: 25%;    
-        height: 22vh;
+        height: autoauto;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
@@ -777,7 +777,7 @@ html{
     gap: 30px;
 }
 .control{
-    gap:24.5vh;
+    gap:25vh;
     padding: 0 15px;
 }
 
