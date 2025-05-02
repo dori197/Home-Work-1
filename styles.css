@@ -521,7 +521,7 @@ html{
         right: -100%;
         top: 0;
         width: 35%;    
-        height: 35%;
+        height: 30vh;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
@@ -769,6 +769,8 @@ html{
 .Frame-6584{
     width: 100%;    
     margin-top: 0;
+    position:relative;
+    z-index: 1;
 }
 .component{
     flex-wrap: wrap;
