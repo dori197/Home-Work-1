@@ -521,7 +521,7 @@ html{
         right: -100%;
         top: 0;
         width: 35%;    
-        height: 300vh;
+        height: 30vh;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
@@ -545,7 +545,7 @@ html{
         left: -100%;
         top: 50px;
         width: 25%;    
-        height: autoauto;
+        height: auto;
         padding: 20px;
         border-radius: 5px;
         background: rgba(38, 37, 37, 0.877);
