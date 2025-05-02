@@ -729,8 +729,10 @@ html{
         display:block;
     }
     .Nav-Bar{
-    justify-content:flex-start;
-    gap: 12vh;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    gap: 13vh;
 }
 .logo{
     text-align: center;
@@ -775,7 +777,7 @@ html{
     gap: 30px;
 }
 .control{
-    gap:23.5vh;
+    gap:24.5vh;
     padding: 0 15px;
 }
 
