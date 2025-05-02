@@ -543,7 +543,7 @@ html{
     .header .second {
         position:fixed; 
         left: -100%;
-        top: 35px;
+        top: 50px;
         width: 25%;    
         height: 25%;
         padding: 20px;
@@ -599,7 +599,7 @@ html{
     }
     .container{
         position:relative;
-        z-index: -10;
+        z-index: 0;
     }
 }
 
