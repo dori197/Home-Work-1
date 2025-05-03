@@ -570,8 +570,11 @@ html{
     .Nav-Bar{
         justify-content: center;
         gap: 42vh;
-        position:fixed;
-        z-index: 5;
+        position:sticky;
+        top: 0;
+        background: rgba(255, 255, 255, 0.091);
+        backdrop-filter: blur(2px);
+        z-index: 30;
     }
 
     .logo{
