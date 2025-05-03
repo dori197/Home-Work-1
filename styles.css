@@ -437,7 +437,7 @@ html{
     display: flex;
     align-items: center;
     text-align: center;
-    gap: 125vh;
+    gap: 120vh;
     font-size: 30px;    
     justify-content: space-between;
     z-index: 11;
@@ -492,6 +492,10 @@ html{
     justify-content: flex-end;
     align-items: flex-end;
     margin: 10px;
+}
+
+.bottom{
+    padding: 100px;
 }
 
 
