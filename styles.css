@@ -571,7 +571,7 @@ html{
         gap: 42vh;
         position:fixed;
         top: 0;
-        background: rgba(255, 255, 255, 0.091);
+        background: rgba(149, 149, 149, 0.24);
         z-index: 50;
     }
 
