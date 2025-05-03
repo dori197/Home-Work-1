@@ -443,6 +443,7 @@ html{
     justify-content: space-between;
     z-index: 11;
     padding: 15px;
+    text-decoration: none;
 }
 .right-buton-scroll:hover{
     transform:translateX(5px);
@@ -468,9 +469,9 @@ html{
     transform:scale(0.95)
 }
 
-.left-buton-scroll, .right-buton-scroll{
+.left-buton-scroll a i, .right-buton-scroll a i{
     color:#ff7700;
-    cursor: pointer;
+    text-decoration: none;
 }
 
 .scroolls{
@@ -569,6 +570,8 @@ html{
     .Nav-Bar{
         justify-content: center;
         gap: 42vh;
+        position:fixed;
+        z-index: 5;
     }
 
     .logo{
